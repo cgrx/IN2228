@@ -37,6 +37,10 @@
 ---
 ## Singular Value Decomposition
 ### Introduction
+- Singular Value Decomposition (SVD) can be seen as a generalization of eigenvalues and eigenvectors to non-square matrices.
+- Computation of SVD is numerically well-conditioned.
+- In practice, SVD is used for solving matrix inversion, rank computation linear least-squares estimation, projections, and fixed-rank approximations.
+
 ### Algebraic Derivation of SVD
 ### Proof of SVD Decomposition
 ### Geometric Interpretation of SVD
