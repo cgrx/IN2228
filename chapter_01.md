@@ -1,4 +1,4 @@
-# Chapter 1 : Mathematical Background: Linear Algebra
+# Chapter 01 : Mathematical Background: Linear Algebra
 
 ## Table of Contents
 1. [Vector Spaces](#vector-spaces)
